@@ -1,0 +1,54 @@
+@import url("reset.css");
+
+span {
+    color: darkkhaki;
+}
+.title {
+    color: aquamarine;
+}
+div.blok-dos {
+    color: aqua;
+}
+.text-introduction.text {
+    color: blueviolet;
+}
+#blok-uk {
+    color: cornflowerblue;
+}
+.blok-uk.text {
+    color: cornflowerblue;
+}
+#blok-uk {
+    color: darkcyan;
+}
+.link {
+    color: lightsalmon;
+}
+.blok-advice,
+.blok-http {
+    color: hotpink;
+}
+.list-also a {
+	color: red;
+}
+.blok-syn .title {
+    color: blueviolet;
+}
+.text-syn > p {
+    color: chartreuse;
+}
+[class*="text-anatomy"] {
+	 color: blue; 
+}
+[class*="blok-icmp"] {
+    color: darkolivegreen; 
+}
+.text-struggle + p {
+	color: lightblue;
+}
+.text-flood ~ p {
+	color: red;
+}
+.blok-content .list {
+    color: orange;
+}
