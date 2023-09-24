@@ -1,29 +1,5 @@
+@import url("fonts.css");
 @import url("reset.css");
-@font-face {
-    font-family: "Bandera Pro";
-    src: 
-        url("../fonts/BanderaProHeavy.woff") format( "woff2 "),
-        url("../fonts/BanderaProHeavy.woff") format( "woff2 ");
-    font-weight: 900;
-    font-style: normal;
-}
-@font-face {
-    font-family: "Bandera Pro";
-    src: 
-        url("../fonts/BanderaPro-Bold.woff") format("woff2"),
-        url("../fonts/BanderaPro-Bold.woff") format("woff2");
-    font-weight: 700;
-    font-style: normal;
-    }
-@font-face {
-    font-family: "Bandera Pro";
-    src: 
-        url("../fonts/BanderaProMedium.woff") format("woff2"),
-        url("../fonts/BanderaProMedium.woff") format("woff2");
-    font-weight: 500;
-    font-style: normal;
-}
-
 body {
     color: #7D7D7D;
     font-family: "Inter", sans-serif;
