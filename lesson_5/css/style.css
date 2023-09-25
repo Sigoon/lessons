@@ -34,14 +34,13 @@ body {
 .text-content span {
     font-family:"BanderaPro", serif;
     color: #6B77E5;
-    font-weight: 500;
+    font-weight: 300;
     font-style: italic;
 }
 .text-histori span {
     font-family:"BanderaPro", serif;
     color: #90259e;
     font-weight: 700;
-    font-style: italic;
 }
 .text-description span {
     font-family:"BanderaPro", serif;
