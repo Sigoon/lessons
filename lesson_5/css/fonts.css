@@ -4,7 +4,6 @@
         url("../fonts/BanderaProHeavy.woff") format( "woff2 "),
         url("../fonts/BanderaProHeavy.woff") format( "woff ");
     font-weight: 900;
-    font-style: normal;
 }
 @font-face {
     font-family: "BanderaPro";
@@ -12,13 +11,12 @@
         url("../fonts/BanderaProBold.woff") format("woff2"),
         url("../fonts/BanderaProBold.woff") format("woff");
     font-weight: 700;
-    font-style: normal;
     }
 @font-face {
     font-family: "BanderaPro";
     src: 
-        url("../fonts/BanderaProMedium.woff") format("woff2"),
-        url("../fonts/BanderaProMedium.woff") format("woff");
-    font-weight: 500;
-    font-style: normal;
+        url("../fonts/BanderaProLight-Italic.woff") format("woff2"),
+        url("../fonts/BanderaProLight-Italic.woff") format("woff");
+    font-weight: 300;
+    font-style: іtalic;
 }
