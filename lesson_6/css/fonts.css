@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Inter:400&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Serif+Text:400&display=swap");
+@font-fac@font-face {
+    font-family: "halagarextrabold";
+    src: 
+        url("../fonts/halagarextrabold.woff") format("woff2"),
+        url("../fonts/halagarextrabold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}

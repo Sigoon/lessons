@@ -1,0 +1,167 @@
+@import url("fonts.css");
+@import url("reset.css");
+.box-jewelry {
+    max-width: 1229px;
+    margin: 0 auto;
+    padding: 150px 15px;
+    color: #474747;
+    font-size: 20px;
+    font-family: Inter;
+    line-height: 36px;
+}
+.blok-text-jewelry {
+    max-width: 563px;
+    margin-right: 38px;
+    display: inline-block;
+}
+.sub-title-jewelry {
+    color: #D06B00;
+    font-size: 28px;
+    margin-bottom: 13px;
+}
+.title-jewelry {
+    color: #0E333D;
+    font-size: 59px;
+    font-family: "DM Serif Text";
+    line-height: 1.47;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+.text-jewelry {
+    color: #474747;
+    font-size: 20px;
+    line-height: 36px;
+    display: inline-block;
+}
+.blok-img {
+    display: inline;
+}
+.img-model-jewelry {
+    margin-right: 22px;
+}
+/* _____________________________________ */
+main {
+    font-family: "Inter",sans-serif;
+    color: #7d7d7d;
+    font-size: 18px;
+    padding: 150px 15px;
+    max-width: 722px;
+    margin: 0 auto;
+}
+.blok-meeting {
+    margin-bottom: 40px;
+}
+.title {
+    color: #37393F;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 12px;
+    text-transform: capitalize;
+}
+.img-meeting {
+    margin-bottom: 24px;
+    max-width: 100%;
+}
+.img-our {
+    max-width: 332px;
+}
+.text{
+    line-height: 1.46;
+    margin-bottom: 40px;
+}
+.text p {
+    margin-bottom: 15px
+}
+.blok-benefits {
+    font-size: 0;
+    display: inline;
+    max-width: 694px;
+}
+.sub-title-meeting {
+    color: #6B77E5;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 12px;
+}
+.sub-title-benefits {
+    color: #40DDB6;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 24px;
+}
+.img-laptoptable {
+    max-width: 331px;
+    margin-right: 29px;
+}
+.blok-text-benefits{
+    display: inline-block;
+    width: 673px;
+    font-size: 18px;
+    max-width: 311px;
+}
+.list-benefits li {
+    margin-bottom: 30px;
+    line-height: 22px;
+
+}
+/* ____________________________________________________ */
+footer {
+    color: #494e4d;
+    font-size: 21px;
+    font-family: "Inter",sans-serif;
+    line-height: 1.27;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 50px 15px;
+    max-width: 1230px;
+
+}
+.blok-support {
+}
+.introduction-support {
+    margin-bottom: 24px;
+}
+.support,
+.title-complete {
+    color: #1a1318;
+    font-size: 34px;
+    font-family: "halagarextrabold",sans-serif;
+    line-height: 1.9;
+}
+
+.ul-support li
+{
+    max-width: 380px;
+    display: inline-block;
+    margin-bottom: 28px;
+}
+.blok-viki {
+    margin-right: 20px;
+}
+.blok-ou {
+    margin-right: 20px;
+}
+.title-support {
+
+}
+.text-support {
+}
+.ul-support {
+margin-bottom: 20px;
+max-width: 1219px;
+}
+.title-support,
+.title-complete {
+    text-align: center;
+}
+
+.text-completet {
+    overflow-y: auto;
+    padding: 234 231;
+}
