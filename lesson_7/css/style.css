@@ -12,7 +12,6 @@ footer {
     text-transform: lowercase;
     text-align: center;
     background-color: rgb(226, 195, 153);
-    padding: 25px 0;
 }
 .footer-link * {
 margin-right: 10%;
