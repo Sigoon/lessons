@@ -1,0 +1,41 @@
+@import url("fonts.css");
+@import url("reset.css");
+body {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 50px;
+}
+header,
+main {
+    max-width: 1220px;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: top;
+}
+header,
+main .h {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+}
+.icon-vector {
+    background: gray;
+    padding: 20px;
+}
+.icon-vector img:not(:last-child) {
+    background: gray;
+    margin: 0 20px 0 0;
+}
+body *:not(:last-child) {
+    margin-bottom: 20px;
+}
+body img {
+    max-width: 100%;
+}
+main *:not(:last-child) {
+    margin-bottom: 25px;
+    display: inline-block
+}
+footer {
+    padding-bottom: 50px;
+}
